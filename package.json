@@ -1,0 +1,15 @@
+{
+  "name": "es6-review",
+  "version": "0.0.1",
+  "description": "this is my class work ism 210",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abah Vivian",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
